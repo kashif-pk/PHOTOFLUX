@@ -73,7 +73,7 @@ height: 100vh;
 position: fixed;
 right: -250px;
 top: 0;
-background:rgba(0, 0, 0, 0.6)!important;
+background:rgba(0, 0, 0, 0.8)!important;
 z-index: 3;
 transition: 0.5s;
 }
